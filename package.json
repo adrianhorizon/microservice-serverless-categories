@@ -1,0 +1,18 @@
+{
+  "name": "lms-categories-stylus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "adrian caminos <camilod4568@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "aws-sdk-mock": "^4.3.1",
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0",
+    "serverless-dynamodb-local": "^0.2.36",
+    "serverless-offline": "^4.9.2"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.427.0"
+  }
+}
